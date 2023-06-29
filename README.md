@@ -9,6 +9,6 @@ To start the application:
 
 Test Users
 1. email:testuser@email.com
-   password:1234@qwer
+   password:1234@qwer \
 2. email:adminuser@email.com
    password:1234@qwer
