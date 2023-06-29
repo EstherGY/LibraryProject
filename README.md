@@ -8,7 +8,7 @@ To start the application:
 4. The application will running on http://localhost:3000/home
 
 Test Users
-1. email:testuser@email.com
-   password:1234@qwer \
-2. email:adminuser@email.com
+1. email:testuser@email.com\
+   password:1234@qwer 
+2. email:adminuser@email.com\
    password:1234@qwer
